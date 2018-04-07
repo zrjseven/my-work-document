@@ -189,6 +189,7 @@
 						引用类型 null
 				    数据使用完毕后，在垃圾回收器空闲的时候回收。
 **Java类加载执行内存图(重点)**
+	![](https://i.imgur.com/zzwcGzc.png)
 	内存图参考：BaiduYunDownload\Java基础视频-深入浅出精华版视频\day06\code\03_面向对象\二个对象的内存图.bmp
 	图片以后会加载上来
 **成员变量和局部变量的区别：**
